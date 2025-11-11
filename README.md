@@ -4,7 +4,7 @@
   <a href="https://www.python.org/downloads/release/python-3100/"><img src="https://img.shields.io/badge/python-3.10-blue.svg" alt="Python 3.10"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://doi.org/10.7910/DVN/GHMKWJ"><img src="https://img.shields.io/badge/Dataset-10.7910/DVN/GHMKWJ-blue" alt="Dataset"></a>
-  <a href="https://github.com/Sarc-Graph/sarcgraph"><img src="https://img.shields.io/badge/powered%20by-Sarc--Graph-orange" alt="Sarc-Graph"></a>
+  <a href="https://github.com/Sarc-Graph/sarcgraph"><img src="https://img.shields.io/badge/Adapted%20from-Sarc--Graph-orange" alt="Sarc-Graph"></a>
 </p>
 
 SarcGraph-2DMB is an adaptation of the open-source Python package, [SarcGraph](https://github.com/Sarc-Graph/sarcgraph), specifically designed for the automated analysis of high-frame-rate recordings of two-dimensional cardiac muscle bundles (2DMBs). This project addresses the challenges of analyzing the larger and more physiologic sarcomere displacements and velocities observed in 2DMBs, for which previous sarcomere tracking pipeline has been unreliable.
